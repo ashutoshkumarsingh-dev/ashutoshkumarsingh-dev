@@ -86,18 +86,7 @@
 ###
 
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/ashutosh-kumar-singh951/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://twitter.com/0xAshutosh" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-</div>
 
-###
 
 ###
 <div style="display: flex; align-items: center;">
@@ -110,10 +99,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashutoshkumarsingh-dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=35&pause=1000&color=0AF757&background=E1115900&multiline=true&random=false&width=3000&height=100&lines=%22They+showed+themselves%2C+the+top+1%25+of+the+1%25%2C+the+ones+in+control%2C+the+ones+who+play+God+without+permission.+And+now+I'm+gonna+take+them+down.%22)](https://git.io/typing-svg)
 
-###
 
 ###
 
