@@ -10,11 +10,10 @@
 
 ###
 
-<div align="center">
-  ### Profile Visit Counter
+### Profile Visit Counter
+
 ![](https://komarev.com/ghpvc/?username=ashutoshkumarsingh-dev&color=blue&style=for-the-badge&label=Profile+Views&abbreviated=true)
 
-</div>
 
 ###
 <div align="left">
