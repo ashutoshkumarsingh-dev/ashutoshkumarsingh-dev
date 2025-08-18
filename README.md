@@ -11,7 +11,9 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouz.maurodesouz&"  />
+  ### Profile Visit Counter
+![](https://komarev.com/ghpvc/?username=ashutoshkumarsingh-dev&color=blue&style=for-the-badge&label=Profile+Views&abbreviated=true)
+
 </div>
 
 ###
