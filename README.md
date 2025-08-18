@@ -10,9 +10,9 @@
 
 ###
 
-### Profile Visit Counter
+#### Profile Visits
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=ashutoshkumarsingh-dev.ashutoshkumarsingh-dev)
 
-![](https://komarev.com/ghpvc/?username=ashutoshkumarsingh-dev&color=blue&style=for-the-badge&label=Profile+Views&abbreviated=true)
 
 
 ###
